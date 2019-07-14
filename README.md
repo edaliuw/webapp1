@@ -29,3 +29,6 @@ Big Idea: Tournament Bracket Maker (Name idea: Bracketdex? I don't think I could
 	- round_type
 
 
+## Students
+
+- Ed Ali
